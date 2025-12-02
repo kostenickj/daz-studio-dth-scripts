@@ -12,9 +12,9 @@ include(dir_self.filePath("morphAnimationConfigs/laraG81.dsa"));
 
 var options = {
   // Path to your daz studio library, always use "/" as the path separator, on mac and windows
-  sPathDazLibrary: "D:/DAZ 3D/My DAZ 3D Library/",
-  sPathCustomDthPoseAssets: "D:/DAZ 3D/My DAZ 3D Library/MyDazToHue/Poses/",
-  genesisVersion: 8.1, // 8.1 or 9
+  sPathDazLibrary: "E:/DAZ/CustomLibrary/",
+  sPathCustomDthPoseAssets: "E:/DAZ/CustomLibrary/Poses/",
+  genesisVersion: 9, // 8.1 or 9
   bIncludeFAC: true, // Set true to include the FAC version of the JCM ROM
 
   bIncludeDK: false, // Set true to include the Dicktator ROM
@@ -22,7 +22,7 @@ var options = {
   // Ex. The standard offsets as of DTH 1.6.6:
   aDKFenceOffsets: [0, 33, 46, 47, 49, 52],
 
-  bIncludeGP: true, // Set true to include the Golden Palace ROM
+  bIncludeGP: false, // Set true to include the Golden Palace ROM
   // Offsets for the fence poses, relative to the first frame of the GP ROM file
   aGPFenceOffsets: [0, 73, 77, 80],
 
