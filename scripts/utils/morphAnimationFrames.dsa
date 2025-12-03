@@ -405,6 +405,8 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
     totalFrames--;
   }
 
+  print("Total frames to create: " + totalFrames);
+
   // Track missing controls and all found controls
   var missingControls = [];
   var allFoundControls = [];
@@ -528,7 +530,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 function generateMorphAnimation(oNodeRoot, morphConfigs) {
   beginUndo();
 
-  Scene.setTime(0);
+  // Scene.setTime(0);
 
   addMorphAnimationFrames(oNodeRoot, morphConfigs);
 
