@@ -1,0 +1,18 @@
+{
+  "name": "daz-studio-dth-scripts",
+  "version": "1.0.0",
+  "description": "A collection of scripts for Daz Studio and DTH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "7zip-bin": "^5.2.0",
+    "node-7z": "^3.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
