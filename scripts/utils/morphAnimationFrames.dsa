@@ -419,6 +419,9 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
     // Collect all available controls for diagnostics
     allFoundControls = collectAvailableControls(selectedNode);
 
+    var oNodeMouth = oNodeRoot.findNodeChildByLabel("Genesis 9 Mouth");
+    var oNodeLashes = oNodeRoot.findNodeChildByLabel("Genesis 9 Eyelashes");
+
     // Extend timeline if needed
     var currentFrame = Scene.getFrame();
     var framesNeeded = totalFrames + 1;
@@ -468,6 +471,29 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
           control.type
         );
 
+        // if we cant find the control, try finding it on the mouth, or lashes, will eventually needs to add genitalia node too (TODO)
+        if (!currentControl){
+          print("Control not found on main node, trying mouth:", control.name);
+          var mouthControl = findControl(oNodeMouth, control.name, control.type);
+
+          print("found on mouth?", !!mouthControl);
+          if (mouthControl){
+            currentControl = mouthControl;
+          } else {
+            var lashesControl = findControl(oNodeLashes, control.name, control.type);
+            print("found on lashes?", !!lashesControl);
+            if (lashesControl){
+              currentControl = lashesControl;
+            }
+          }
+
+          if (!currentControl){
+            MessageBox.critical("Error", "Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING", "");
+            return;
+          }
+
+        }
+
         if (currentControl) {
           controlsToSet.push({
             control: currentControl,
@@ -516,7 +542,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
     goToNLastFrame(1);
 
     // If there were any missing controls, print all available controls
-    reportMissingControls(missingControls, allFoundControls);
+    // reportMissingControls(missingControls, allFoundControls);
   } else {
     print("No nodes are selected.");
   }

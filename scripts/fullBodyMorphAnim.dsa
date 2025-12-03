@@ -19,6 +19,7 @@ var morphConfigs = [
     { type: "morph", name: "TBD", value: 1.0 },
     { type: "morph", name: "BaseFeminine_body_bs_Body", value: 1.0 },
     { type: "morph", name: "BaseFeminine_head_bs_Head", value: 1.0 },
+    { type: "morph", name: "Fangs All Pointy A", value: 1.0 },
   //   { type: "morph", name: "Glute Height Inner", value: 0.52 },
   //   { type: "morph", name: "Glute Width Upper", value: 0.87 },
   //   { type: "morph", name: "Glute Width Lower", value: 1 },

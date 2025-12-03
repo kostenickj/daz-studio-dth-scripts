@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node-7z": "^2.1.11",
     "7zip-bin": "^5.2.0",
     "node-7z": "^3.0.0",
     "ts-node": "^10.9.2",
