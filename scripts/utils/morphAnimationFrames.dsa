@@ -338,12 +338,12 @@ function reportMissingControls(missingControls, allFoundControls) {
       var control = allFoundControls[i];
       print(
         "  " +
-          control.type +
-          ": " +
-          control.label +
-          (control.name !== control.label
-            ? " (Name: " + control.name + ")"
-            : "")
+        control.type +
+        ": " +
+        control.label +
+        (control.name !== control.label
+          ? " (Name: " + control.name + ")"
+          : "")
       );
     }
   }
@@ -378,14 +378,30 @@ function extendTimelineIfNeeded(currentFrame, framesNeeded) {
     var newFrames = Scene.getAnimRange().end / timeStep;
     print(
       "Timeline extended from " +
-        oldFrames +
-        " frames to " +
-        newFrames +
-        " frames"
+      oldFrames +
+      " frames to " +
+      newFrames +
+      " frames"
     );
   }
 
   return currentFrame;
+}
+
+function buildControlMap(selectedNode) {
+  allFoundControls = collectAvailableControls(selectedNode);
+
+  controlMap = {};
+  for (var i = 0; i < allFoundControls.length; i++) {
+    var ctrl = allFoundControls[i];
+    if (controlMap[ctrl.label]) {
+      messageBox.warning("Warning", "Duplicate control name found: " + ctrl.name + ". This may cause issues when setting values.", "");
+    }
+    if (ctrl.type === "modifier" || ctrl.type === "morph") {
+      controlMap[ctrl.label] = ctrl;
+    }
+  }
+  return controlMap;
 }
 
 /**
@@ -423,10 +439,18 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
     var oNodeMouth = oNodeRoot.findNodeChildByLabel("Genesis 9 Mouth");
     var oNodeLashes = oNodeRoot.findNodeChildByLabel("Genesis 9 Eyelashes");
 
+    mainControlMap = buildControlMap(selectedNode);
+    print("Main control map built with " + Object.keys(mainControlMap).length + " controls.");
+    mouthControlMap = buildControlMap(oNodeMouth);
+    print("Mouth control map built with " + Object.keys(mouthControlMap).length + " controls.");
+    lashesControlMap = buildControlMap(oNodeLashes);
+    print("Lashes control map built with " + Object.keys(lashesControlMap).length + " controls.");
+
     // Extend timeline if needed
     var currentFrame = Scene.getFrame();
     var framesNeeded = totalFrames + 1;
     currentFrame = extendTimelineIfNeeded(currentFrame, framesNeeded);
+    print('timeline extended if needed, current frame is now: ' + currentFrame);
 
     // Use current frame as start frame
     var startFrame = currentFrame;
@@ -446,6 +470,8 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
     for (var frame = startFrame; frame < endFrame; frame++) {
       Scene.setFrame(frame);
+      // TODO, the main bottleneck is fixed by using the control maps, now this fuction also needs to be optimized
+      // its ungodly slow
       resetAllControlsAtFrame(controlConfigs, selectedNode, frame, startFrame);
     }
 
@@ -467,31 +493,25 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
       // First, gather all controls
       config.controls.forEach(function (control) {
 
-        // TODO, findControl is a massive bottleneck, optimize to build a static map of controls instead of literally searching every time
-        // the way it currently loops is absolutely bonkers for performance and any number of controls over like 10 will take forever
-        var currentControl = findControl(
-          selectedNode,
-          control.name,
-          control.type
-        );
+        var currentControl = mainControlMap[control.name];
 
         // if we cant find the control, try finding it on the mouth, or lashes, will eventually needs to add genitalia node too (TODO)
-        if (!currentControl){
+        if (!currentControl) {
           print("Control not found on main node, trying mouth:", control.name);
-          var mouthControl = findControl(oNodeMouth, control.name, control.type);
+          var mouthControl = mouthControlMap[control.name];
 
           print("found on mouth?", !!mouthControl);
-          if (mouthControl){
+          if (mouthControl) {
             currentControl = mouthControl;
           } else {
-            var lashesControl = findControl(oNodeLashes, control.name, control.type);
+            var lashesControl = lashesControlMap[control.name];
             print("found on lashes?", !!lashesControl);
-            if (lashesControl){
+            if (lashesControl) {
               currentControl = lashesControl;
             }
           }
 
-          if (!currentControl){
+          if (!currentControl) {
             MessageBox.critical("Error", "Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING", "");
             return;
           }
@@ -509,10 +529,10 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
           missingControls.push(control.name);
           print(
             "⚠️ Control not found: " +
-              control.name +
-              " (type: " +
-              control.type +
-              ")"
+            control.name +
+            " (type: " +
+            control.type +
+            ")"
           );
         }
       });
@@ -530,13 +550,13 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
         ) {
           print(
             "Frame " +
-              targetFrame +
-              ": Set " +
-              controlData.type +
-              " " +
-              controlData.name +
-              " = " +
-              controlData.value
+            targetFrame +
+            ": Set " +
+            controlData.type +
+            " " +
+            controlData.name +
+            " = " +
+            controlData.value
           );
         }
       });
