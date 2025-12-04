@@ -1,0 +1,8722 @@
+[
+  {
+    "type": "morph",
+    "name": "Asymmetry A",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Asymmetry B",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All Anime 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All Anime 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All Pointy A",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All Pointy B",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All Pointy C",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs All straight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN All Pointy A",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN All Pointy B",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN All Pointy C",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN B 07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs DOWN C 06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs SINGLE Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs SINGLE Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP 08",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP All Pointy A",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP All Pointy B",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP All Pointy C",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP B 08",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fangs UP C 07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "GUMS SHOW A",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "GUMS SHOW ALL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "GUMS SHOW B",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_body_bs_Claws",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_body_bs_ToenailClaws",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerCaninesSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerCenIncisorsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerFirstMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerFirstMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerLatIncisorsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerPrimaryPremolarsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerSecondaryPremolarsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerSecondMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerSecondMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerThirdMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_LowerThirdMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperCaninesSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperCenIncisorsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperFirstMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperFirstMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperLatIncisorsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperPrimaryPremolarsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperSecondaryPremolarsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperSecondMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperSecondMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperThirdMolarsSharpDbl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_UpperThirdMolarsSharpSngl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant08",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant09",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant10",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant11",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant12",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant13",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant14",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant15",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant16",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant17",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant18",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant19",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CCVampireVagaries_head_bs_Variant20",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHBCharlotte",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHBCharlotte_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHBCharlotte_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHBCharlotte_Teeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_Charlotte_Hands",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_Charlotte_Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB Scarlett Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettAdult",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettAdult_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettAdult_head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettTeen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettTeen_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettTeen_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_ScarlettTeen_Proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_Scarlett_Expression_Smile_01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_Scarlett_Expression_Smile_02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CHB_Scarlett_Teeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Bartholemew_Body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Bartholemew_Character_ctrl_Figure",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Bartholemew_Head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Character_ctrl_Figure",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Meadow9_Body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Meadow9_Character_ctrl_Figure",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Meadow9_Head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Meadow_Body_bs_Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Body_BS_Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Body_bs_Vamp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Creature_bs_Eyes",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Head_bs_Vamp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_Mouth_bs_Teeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CJ_Beatrice9_VampCharacterCTRL_Figure",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CGI0123Ghalen_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CGI0123Ghalen_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CGI0123Ghalen_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CBArceli_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CBArceli_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CBArceli_figure_ctrl_Character_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CBArceli_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia HD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia Vamp Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia Vamp Teeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Hesperia",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Long Square Nails G9",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CB Long Square Nails G9",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_Navel_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesFeminine_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesMasculine_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesTipsFeminineLarge_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesTipsMasculineLarge_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlIrregularLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlIrregularLowerPoint",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlIrregularUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlIrregularUpperPoint",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlUniformLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurlUniformUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesCurvature",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesGoneLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesGoneUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesHeightUniformLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesHeightUniformUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesIrregularTwist",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLargeUniformLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLargeUniformUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLayerSeperationUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLengthIrregularLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLengthIrregularUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLengthUniformLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesLengthUniformUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesOuterHeightUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesRootSkewIrregular",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesRootSpreadIrregularLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesRootSpreadIrregularUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesRootZag",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesSkewIrregularLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelashesSkewIrregularUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthCavityFitBack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthCavityFitFront",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthRealism_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_EyelashesNatural",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnime_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnime_head_bs_ToonTeethCaninesLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnime_head_bs_ToonTeethCaninesUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeF_body_bs_BodyFeminine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeF_body_ctrl_BodyFeminineProportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeF_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeM_body_bs_BodyMasculine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeM_body_ctrl_BodyMasculineProportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseAnimeM_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Amala_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Amala_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Amala_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fabrice_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fabrice_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fabrice_head_bs_head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kat_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kat_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kat_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Laura_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Laura_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Laura_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Matt_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Matt_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Matt_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Ty_body_bs_body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Ty_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Ty_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseFeminine_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseFeminine_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseFeminine_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexCalfL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexCalfR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexGluteClenchL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexGluteClenchR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexHamstringL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexHamstringR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexQuadL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexQuadR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexShoulderUpperBackL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexShoulderUpperBackR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexBicepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexBicepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexTricepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexTricepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexBicepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexBicepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexCalfL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexCalfR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexGluteClenchL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexGluteClenchR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexHamstringL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexHamstringR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexQuadL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexQuadR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexShoulderUpperBackL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexShoulderUpperBackR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexTricepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FlexTricepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexBicepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexBicepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexBiceps_TwistL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexBiceps_TwistR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexCalfL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexCalfR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexHamstringL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexHamstringR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexShoulderUpperBackL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexShoulderUpperBackR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexTricepsL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_FlexTricepsR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseMasculine_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseMasculine_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "BaseMasculine_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionArmsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionChestDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionFingersLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionFootLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionLarger",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionLegsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionSmaller",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionSmallerBO",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionToesLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ProportionTorsoLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionChestSize_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionFootSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionFootSizeL_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionFootSizeR_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionHandSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionHandSizeL_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionHandSizeR_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionHeightScaleNeg",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionHeightScalePos",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionLargerScale",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionPalmSize_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_ProportionSmallerScale",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ProportionNeckLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_ProportionHeadSize_scl",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_AbdominalsCenterDefine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_AbdominalsOuterDefine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyEmaciated",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyFitnessDetails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyFitnessMass",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyHeavy",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyLithe",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyMuscularDetails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyMuscularMass",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyOlder",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyThin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyTone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_CalvesSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_CollarboneDetail",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_FootArchDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_GluteCrease",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_GluteDepthLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_GluteDepthUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_GluteSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipBackDimples",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipBoneCrest",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipBoneSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipGenitalBulge",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipPelvicTilt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_HipVDefine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_KneeBonesSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_LatsSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_LoveHandles",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassAnkles",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassBody",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassFeet",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassForearms",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassHands",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassKnees",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassLowerTorso",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassNeck",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassShins",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassShoulders",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassThighs",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassUpperArms",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassUpperTorso",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_MassWrist",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NailsLengthRound",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NailsLengthSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NailsLengthSquare",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelDepth_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelHollow_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelHorizontal_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelOut_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelSize_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NavelVertical_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_Pregnant",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_RibcageArched",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_RibcagePointed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_RibcageSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ScapulaDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ScapulaSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_SternumDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_SternumHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_StomachDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_StomachDepthLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_StomachSoften",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperForearmA",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperForearmB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperNeckA",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperNeckB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperShinA",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperShinB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperThighA",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperThighB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperUpperArmA",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TaperUpperArmB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ThighDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_ThighTone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_TrapsSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_WaistDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_BodyFitness",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_ctrl_BodyMuscular",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyPearFigure",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyVoluptuous",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsCleavage",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsDiameter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsDownwardSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsFullnessLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsFullnessUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsGone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsHeavy",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsLarge",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsLargeHigh",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsNatural",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsPerkSide",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsShape06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsSidesDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BreastsSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesAreolaeDepthFeminine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesAreolaeDiameterFeminine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesDepthFeminine_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesDiameterFeminine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyPortly",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_BodyStocky",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesAreolaeDepthMasculine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesAreolaeDiameterMasculine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesDepthMasculine_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_NipplesDiameterMasculine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsCleavage",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsDiameter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsHeightOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsSag",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "body_bs_PectoralsUnderCurve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis2Female",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis2Male",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis3Female",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis3Male",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis8Female",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CloneGenesis8Male",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowAboveDepthInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowAboveDepthOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowArchSizeInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowArchSizeOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowSharpen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowSkinSlack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowTempleNarrow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowWholeHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_BrowWholeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekboneSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekboneThin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekboneUpperArchSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekCreaseDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekLowerSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekMiddleDiagonalBisect",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekMiddleRound",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekMiddleSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekNasolabialSizeLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekNasolabialSizeUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekSink",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekSlack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheekTearTrough",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheektoJawSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CheektoLipDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ChinCleft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ChinDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ChinHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ChintoLipDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ChintoLipSharpen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CraniumHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CraniumSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_CraniumSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarElf",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarElfLong",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarlobeAttached",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarlobeLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarlobeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarSizeLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EarSizeUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeAlmondInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeAlmondOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeAngleInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeAngleOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeLacrimalInnerHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeLacrimalPinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeLacrimalSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidAngleLowerOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidAngleUpperOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseLowerDeepen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseLowerHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseUpperDeepen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseUpperHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseUpperInnerHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseUpperOuterHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidCreaseUpperSmooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidFoldInnerToward",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyelidFoldToward",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeSocketInnerDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeSocketLowerDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeSocketPuffyLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeSocketPuffyUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeSocketWholeDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeWholeAngle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeWholeDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeWholeHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_EyeWholeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceAngle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceCenterDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceFlat",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceHeart",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceOlder",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceRound",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceSquare",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_FaceYoung",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ForeheadUpperThin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ForeheadWholeFlat",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ForeheadWholeRound",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ForeheadWholeThin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawMiddleCurve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawRearDefine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawRearHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawSlack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawtoNeckSlack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawWholeHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawWholeSharpen",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_JawWholeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipBorderCurveUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipDepthLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipDepthUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipHeart",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipSizeLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipSizeUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipSquare",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipThin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipThinLowerInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipThinLowerOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipThinUpperInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipThinUpperOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_LipTopPeak",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthAboveSizeInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthAboveSizeOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthApertureCurve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthApertureCurveUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthBelowHollow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthBelowSizeInner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthBelowSizeOuter",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_MouthSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBaseAngle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBaseFleshSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBaseHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBasePinched",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBaseSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeBump",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeDefinition",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeLowerSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeToCheekDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeUpperDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeUpperHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeUpperHollow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseBridgeUpperSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NosePhiltrumAngle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NosePhiltrumCenterDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NosePhiltrumOuterDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseSeptumDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseSeptumHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseTipDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseTipHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseTipSeptumContour",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseTipSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseTipUpturn",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWholeDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWholeSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWingDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWingHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWingLowerHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWingSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_NoseWingSizeVertical",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_SkullSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethCenterGapUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethIndividualTaper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethIrregular",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethLengthLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethLengthUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethSizeLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_TeethSizeUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_EyeballPositionDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_EyeballPositionHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_EyeballPositionSide-SideLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_EyeballPositionSide-SideRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethLowerPositionDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethLowerPositionHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethLowerPositionSide-Side",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethUpperPositionDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethUpperPositionHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_ctrl_TeethUpperPositionSide-Side",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryBrowHeightLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryBrowHeightRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryBrowSizeLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryBrowSizeRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryCheekSizeLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryCheekSizeRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars01Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars01Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars02Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars02Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars03Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEars03Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEarsPositionHeightLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEarsPositionHeightRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsCreaseHeightLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsCreaseHeightRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsLowerRelaxLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsLowerRelaxRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsUpperRelaxLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyelidsUpperRelaxRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesAngleLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesAngleRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesPositionDepthLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesPositionDepthRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesPositionHeightLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryEyesPositionHeightRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceHeartLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceHeartRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceRoundLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceRoundRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceSquareLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryFaceSquareRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryJawHorizontalBalance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryLipLowerThicknessLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryLipLowerThicknessRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryLipUpperThicknessLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryLipUpperThicknessRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryMouthAngleLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryMouthAngleRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryMouthMidCurveLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryMouthMidCurveRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseBaseHorizontal",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseBaseTwist",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseBridgeHorizontal",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseBridgeUpperHoriz",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseRotateLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseRotateRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseTipBalanceLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseTipBalanceRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseWingHeightPosLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseWingHeightPosRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseWingSizeLeft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AsymmetryNoseWingSizeRight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_ToonEyelashesRimOffset",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DCasey_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DCasey_figure_ctrl_Character_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DCasey_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DJack_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DJack_figure_ctrl_Character_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "EM3DJack_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "E3DFakeNails_body_bs_Nails_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "E3DFangs_head_bs_Teeth_HD3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue HD Proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue HD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogues HD Veins",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_2_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_3_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_4_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_5_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_6_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_7_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Rogue_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi Breast Implants",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi Eyelashes",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi Nipples",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "HH Lexi",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Annoyed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Awed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Kiss",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Lips_Part",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Sad",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Kind",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Open",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_body_bs_Body_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "js_micah_body_ctrl_ShouldersShrug",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Annoyed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Awed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Kiss",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Lips_Part",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Sad",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Kind",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_Exp_Smile_Open",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_Micah_head_bs_Head_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_G9_FingerNails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JS_G9_ToeNails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowL Inner To Center",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowL Inner Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowL Middle Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowL Outer Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowL Outer Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowR Inner To Center",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowR Inner Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowR Middle Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowR Outer Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE BrowR Outer Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekL Inflated",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekL Press",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekL Pull",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekL Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekR Inflated",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekR Press",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekR Pull",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE CheekR Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarL Pull Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarL Pull",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarL Rotale Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarL Rotale Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarL Rotale Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarR Pull Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarR Pull",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarR Rotale Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarR Rotale Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EarR Rotale Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Lower Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Lower Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Lower Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Lower Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Upper Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Upper Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Upper Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeL Upper Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Lower Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Lower Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Lower Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Lower Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Upper Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Upper Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Upper Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE EyeR Upper Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Left Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Middle Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Pull Out Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Pull Out Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Pull Out",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Lower Right Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Left Down-Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Middle Down-Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Pull Out Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Pull Out Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Pull out",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lip Upper Right Down-Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lips Left Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lips Right Up-Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lips Wide Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Lips Wide Right",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Left Press",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Press Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Right Press",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Tip Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Tip Right-Left",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE Nose Tip Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE NostrilL More Open",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE NostrilL Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE NostrilR More Open",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "JW FCE NostrilR Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_Body_bs_Body_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Annoyed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Kiss",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Lips_Part",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Sexy_Smirk",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Skeptical",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Smile",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Smile_Open",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Exp_Smirk",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Alba9_head_bs_Head_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Angry",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Kiss",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Lips_Part",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Serious",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Shock",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Smile",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Smile_Simple",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Undecided",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle9_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_DanielleG9_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_DanielleG9_body_bs_Body_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_DanielleG9_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_DanielleG9_head_bs_Head_Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_DanielleG9_head_bs_Head_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Angry",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Kiss",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Lips_Part",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Serious",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Shock",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Smile",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Smile_Simple",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Danielle_Exp_Undecided",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_G9_Nails",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Awe",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Happy",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Smile Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Smile",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Suspicious",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_body_bs_Body_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Awe",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Happy",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Smile Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Smile",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Exp_Suspicious",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Head_Alt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Head_Asymmetry",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MSO_Peppa9_head_bs_Head_HD5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DFairy_head_bs_Ears",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3D_head_bs_EyelashesLong_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanPreteen_body_bs_Body_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanPreteen_figure_ctrl_Character_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanPreteen_head_bs_Head_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanTeen_body_bs_Body_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanTeen_figure_ctrl_Character_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowanTeen_head_bs_Head_HD2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "P3DRowan_head_bs_Teeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Nails Long PW",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RYBrion_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RYBrion_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RYBrion_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RYBrion_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RYBrion_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RedzKaz_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RedzKaz_body_bs_body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RedzKaz_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RedzKaz_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RS_Kaz_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "RS_Kaz__figure_ctrl_Proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_AbdomenMSmoothing",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_AbdomenSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_AbdomenSmoothing",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_AdamsAppleShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_AnklesShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmpitShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsElbowsShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsLowerLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsLowerStrong",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsLowerVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsUpperStrong",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsUpperVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ArmsWristShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellyFDefinition",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellyLoFlat",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellyLoSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellyMDefinition",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellyMuscles",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BellySize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastBigger",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastCleavage",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastFReduction",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastFShape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastFSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastShape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastSmaller",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_BreastUnderCurve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_CalvesShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMDeveloped",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMShape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMShape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMSmoothing",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMUnderCurve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestMUndevelopped",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ChestSidesSmaller2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_CollarBoneShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FeetDorsum",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FeetHamstrings",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FeetSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FeetSoles",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FingersLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FullBodyFSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_FullBodyMSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_Glutes1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_Glutes3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_GlutesCleft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_GlutesShape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_GlutesSidesShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_HandsSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_Iliac",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_Jugularis",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_KneesHollowShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_KneesShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_KneeVolumeAdj",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsLowerLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsLowerVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsThighOuterSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsThighsInnerSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsUpperBackShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsUpperFrontShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsUpperLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LegsUpperVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_LoveHandles",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_NecKBaseDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_NeckLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_NeckShapeBack",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_NeckShapeFront",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_NeckVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_PubicBoneReduce",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_PubicSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShinsShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShoulderBlades",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersBump",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersDistance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersShape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersShape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ShouldersWeak",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_SpineShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_SternumMShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_SternumShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ThoraxDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ThoraxLengthUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ThoraxVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_ThoraxVolumeSmooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_TorsoSidesSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_TrapeziusShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_UpperArmsBackStrong",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_bs_UpperArmsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_ctrl_ArmsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_ctrl_ArmsVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_ctrl_FullBodyLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_ctrl_LegsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDBMK_body_ctrl_LegsVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_01L_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_01L_Irregular2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_01U_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_01U_Irregular2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_01U_Irregular3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_02L_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_02L_Irregular2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_02U_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_02U_Irregular2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_03L_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_03U_Irregular1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorLL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorLR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorsGapLower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorsGapUpper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorUL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CentralIncisorUR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CuspidLL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CuspidLR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CuspidsSharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CuspidUL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_CuspidUR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_KidsTeeth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_LateralIncisorLL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_LateralIncisorLR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_LateralIncisorUL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_LateralIncisorUR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar1LL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar1LR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar1UL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar1UR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar2LL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar2LR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar2UL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar2UR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar3LL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar3LR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar3UL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Molar3UR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar1LL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar1LR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar1UL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar1UR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar2LL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar2LR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar2UL_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_bs_mouth_Premolar2UR_Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDET_head_ctrl_mouth_CentralIncisorsUL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowCenterUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsCenterDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsInnerUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsOuterSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsOuterUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_BrowsUpDown",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheekBone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksCenterPoint",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksDimples",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksLowerCompression",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksLowerVol",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksSidesSmooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksUpperCompression",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_CheeksUpperVol",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ChinCleft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ChinDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ChinDouble",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ChinHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ChinVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarLobesShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsLength",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsLR",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsShape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsShape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsShape3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EarsUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesBig",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesDistanceHelperN",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesDistanceHelperP",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesLowerShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesSmoothing",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_EyesUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_ForeHeadShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_HookNose",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_JawLine",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_JawSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_JawUnderSmooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipCornersDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipCornersDistance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipCornersShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipCornersUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipLowerFB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipLowerVolume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipLowTaper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipPhiltrum",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipsShapeVar",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipsSquared",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipUpperFB",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_LipUpperVol",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_MouthDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_MouthSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_MouthUD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseBig",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseBroadLow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseDepth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseLowHeight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseLowSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseRoot",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseRootTrans",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseSlope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseSlopeLow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseSmall",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseTipRotation",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseTipShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseTipSmall1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseTipSmall2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NoseTipTaper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NostrilsRotation",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_NostrilsShape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_bs_SnubNose",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_ctrl_EyesDistance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "SFDFMK_head_ctrl_EyesSize",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CTRLT3dIcarusBody",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "T3dIcarus",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "T3dIcarusEarElf",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "T3dIcarusHead",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brow Outer Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Inner Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Inner Pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Inner Squeeze",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows Middle Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Brows UpTurned",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cheekbones Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cheekbones Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cheeks Lower Sink 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cheeks Lower Sink",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cheeks Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Cleft 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Cleft",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Dimple",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Large",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Petite",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Small",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Chin Square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cranium Shape 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Cranium Shape 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Earlobes Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Earlobes Unattached",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Large",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Pinned",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Shape 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Shape 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Shape 03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Ears Small",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Elf Ears Large",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Elf Ears Small",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyelids Crease Smooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyelids Deep Set",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyelids Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Almond",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Downturned",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Droop",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Hooded",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Inner Pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Large",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Lower Inner Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Lower Mid Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Lower Outer Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Narrow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Round",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Slant Upwards",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Under Bags",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Under Sunken",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Upper Eye Bags",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Upper Inner Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Upper Mid Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Upper Outer Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Eyes Upturned",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Heart",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Jowels",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Laughlines",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Oval",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Round",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Face Square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Forehead Flatten",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Forehead Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Forehead Protrude",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Head Smaller",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Double Chin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Large",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Small",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Jaw Square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lacrimal Inner Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lacrimal Pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Corner Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Curve 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Curve 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Lower Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Lower Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Lower Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Lower Square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Peak Gone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Peak Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Cute",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Downturned",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Heart",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Oval",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Round",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Sharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Style Thin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Upper Center Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Upper Center Pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Upper Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Upper Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Lips Upper Thin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Mouth Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Mouth Dimples 01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Mouth Dimples 02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Mouth Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Mouth Upper Sink",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose African",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Bridge Bump",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Bridge Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Bridge Slope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Bulbous",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Greek",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Hawk",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Model",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Nostrils Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Nubian",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Roman",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Septum Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Snubbed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Straight",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Crooked",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Rounded",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Tip Square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Wings Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Nose Wings Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TM Philtrum Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V101",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V102",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V103",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V104",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V105",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V106",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V107",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V108",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V109",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANBigLipsG9V110",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_08",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_09",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANEyesG9V1_10",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_08",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_09",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "ANSmallLipsG9V1_10",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "FBMXiYue",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "FHMXiYue",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Xi Yue",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "head_bs_AxeBladeHorns_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9DarkElf_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9Demon_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9Demon_body_bs_Claws_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9Demon_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9Demon_figure_ctrl_Proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9Demon_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9GreaterDemon_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9GreaterDemon_figure_bs_Character_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9GreaterDemon_figure_ctrl_Proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9GreaterDemon_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_body_bs_Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_body_bs_Body_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_body_bs_Navel_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_figure_ctrl_Character",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_figure_ctrl_Character_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_head_bs_Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wagner9_head_bs_Head_HD4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "TBD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-01",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-02",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-03",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-04",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-05",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-06",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "XBMXBF2-07",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MGAB Marye Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MGAB Marye Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "MGAB Marye",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "!Thighs Depth 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "!Thighs Depth 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "!Thighs Gap",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "!Thighs Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Depth Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Depth Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Depth Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Line Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Line Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Line Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Shape 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Shape 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Abdomen Shape 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Anklebone Size Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Anklebone Size Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Ankles Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Arms Length Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Arms Length Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Depth Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Depth Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Depth Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Dimples",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Shape Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Back Shape Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Lift",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Move Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Move Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Move Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Move Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Perk",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 6",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 7",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Shape 8",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Size Bigger 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Size Bigger 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Breasts Size Smaller",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Apart",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Depth Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Depth Middle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Depth Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Height Inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Height Lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Height Outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Height Upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Line",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Move Vertical",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Buttocks Tighten",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Calfs Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Chest Lower Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Chest Lower Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Chest Upper Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Chest Upper Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Collarbone Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Elbow Size 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Elbow Size 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fingers Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Fingers Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Foot Arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Foot Flat",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Foot Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Foot Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Foot Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Forearm Size 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Forearm Size 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hands Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Bone Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Bone Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Depth 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Depth 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Depth 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Depth 4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Height 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Height 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Shape 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Shape 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Hip Shape 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kneecap Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kneecap Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kneepit Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Kneepit Details",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Details",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Inner 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Inner 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Outer 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Knees Outer 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Finger Index",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Finger Mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Finger Pinky",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Finger Ring",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Finger Thumb",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Toe Big",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Toe Index",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Toe Mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Toe Pinky",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Length Toe Ring",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Nails Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Navel Depth 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Navel Depth 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Navel Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Navel Scale",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Palms Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Palms Thin",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pelvis Line",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Depth 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Depth 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Depth 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Height 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Height 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Height 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Pubis Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Scapulas Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Scapulas Distance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Back 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Back 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Back 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Bone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Inner 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Inner 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Inner 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Inner 4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Outer 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Outer 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Outer 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shins Outer 4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shoulders Size Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Shoulders Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Spine Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Spine Muscles Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Spine Muscles Distance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Tailbone Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Tailbone Down",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Tailbone Up",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Tendons Define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Tendons Detail",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back In 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back In 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back In 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back Out 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back Out 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Back Out 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Front Depth 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Front Depth 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Front Depth 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner In 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner In 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner In 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner In 4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner out 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner out 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Inner out 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer In 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer In 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer In 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer Out 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer Out 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thighs Outer Out 3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Thorax Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Toenails Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Toes Length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Toes Size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Upper Arms Size 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Upper Arms Size 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Waist Depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Waist Height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wrist Size 1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Wrist Size 2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CTRL_TX Madison Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CTRL_TX Madison Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "CTRL_TX Madison",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Daemian body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Daemian fem full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Daemian Fem head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Daemian full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Daemian head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Damian fem body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha BODY",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha face1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha face2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha face3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha FULL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Feminine Sasha HEAD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Horrific Draugr Body",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Horrific Draugr Full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Horrific Draugr Head",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-full-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-full-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-full-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-lower-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-lower-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00--mouth-upper-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-depth-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-depth-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-depth-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-height-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-height-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-height-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-brow-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbone-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbone-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbone-height2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbones-front-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbones-inflate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheekbones-lean",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cheeks-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-bone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-square",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-valley-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-chin-valley-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-frontal-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-frontal-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-occipital-shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-parietal-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-parietal-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-parietal-shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-cranium-parietal-temporal-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ear-upper-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-fantasy-pointed",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-fantasy-points-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-protrude",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-scale",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-ears-top-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-all-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-all-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-all-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-all-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-inner-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-lower-height-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-lower-height-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-lower-height-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-outer-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-fold-height-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-fold-height-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-fold-height-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-height-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-height-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-eye-upper-height-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-face-lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-forehead-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-infraorbital-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-infraorbital-furrow1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-infraorbital-furrow2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-jaw-corner-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-jaw-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-jaw-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-jaw-heigh2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-jaw-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-lips-lower-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-lips-lower-thickness",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-lips-upper-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-lips-upper-thickness",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-mouth-upper-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-muzzle-arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-bridge-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-bridge-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-bridge-slope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-flesh-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-tip-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-tip-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "00-nose-wings-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-antihelix-crura",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-frown",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-furrow",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-mid-muscle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-ridge-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-ridge-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-ridge",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-under-depression",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-under-fat-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-brow-under-fat",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheek-jowls-low",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheek-jowls-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheek-jowls-upper",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheekbone-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheekbones-bone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-crease",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-full1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-full2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-full3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cheeks-muzzle-crease",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-chin-muscle2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-chin-muscle3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-chin-valley-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-chin-valley-detail",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cranium-occipital-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cranium-parietal-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-cranium-temporal-shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-antihelix-crura",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-antihelix-pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-antihelix",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-antitragus-distance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-back-realism",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-cavity-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-concha",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ear-darwins-point",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ears-concha-cymba",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ears-helix-thickness",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ears-scaphoid-fossa-shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ears-scaphoid-fossa",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-ears-tips-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-epicanthic-fold",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-hooded",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-hooded2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lacrimal-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lacrimal-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lacrimal-pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lacrimal-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-puff-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-sink-full",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-sink-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-sink-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-fold-sink-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-puff-height-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-puff-height-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-puff-height-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-puff1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-puff2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-shape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-shape2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-volume-inner",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-volume-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-lower-socket-volume-outer",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-browbone-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-browbone-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-browbone-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-definition",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-distance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-size-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-socket-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fat-pad1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fat-pad2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fold-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fold-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fold-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-fold-height2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-socket-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-socket-shape1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-eye-upper-socket-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-muscle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-bone-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-bone-pinch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-bone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-bone2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-forehead-temple-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-jaw-corner-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-jaw-fat-pad",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-jaw-muscle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-jaw-under-tension",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-jawbone",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-all-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-contour",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-curve1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-curve2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-curve3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-detail1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-detail2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-mid-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-mid-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-mid-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-occlusion",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-outer-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-outer-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-lower-outer-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-pillow-lower",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-pillow-upper-mid",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-pillow-upper-side",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-bow-sharp",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-bow-smooth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-contour",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-curve1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-curve2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-curve3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-detail1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-detail2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-occlusion",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-mid-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-outer-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-outer-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-outer-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-outer-occlusion",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-outer-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-lips-upper-sides-detail",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-corners-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-corners-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-corners1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-corners2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-corners3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-philtrum-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-philtrum-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-philtrum-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-mouth-philtrum",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-brow-depression",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-lower-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-lower-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-proportions",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-upper-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nasal-bone-upper-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-define1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-define2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-define3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-depth1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-depth2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-heigth2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-rotate1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-rotate2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-lateral-rotate3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-maxilla-arch",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-maxilla-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-maxilla-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-maxilla-upper-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-low-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-low-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-low-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septal-cartilage-slope",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-curve",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-rotate",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-septum-shape",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-define1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-define2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-define3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-define4",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-define5",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-height2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-rotate1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-rotate2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-tip-cartilage-tilt",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-cartilige-define",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-cartilige-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-cartilige-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-cartilige-rotate1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-cartilige-rotate2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-height1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-height2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-rotate1",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-rotate2",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-rotate3",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-thickness",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-tip-depth",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-tip-height",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-tip-size",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-volume",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nose-wings-fat-with",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nostril-angle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nostril-distance",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "01-nostril-length",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Masculine Jorg BODY",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Masculine Jorg FULL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Masculine Jorg HEAD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Versatile Clemence BODY",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Versatile Clemence FULL",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "Versatile Clemence HEAD",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 01 - Abigail",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 02 - Monique",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 03 - Emily",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 04 - Gabrielle",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 05 - Rosie",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9F Face 06 - Satomi",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9M Face 01 - Benny",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9M Face 02 - Harold",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9M Face 03 - Cyrus",
+    "value": 1
+  },
+  {
+    "type": "morph",
+    "name": "WkD3D G9M Face 04 - Darius",
+    "value": 1
+  }
+]

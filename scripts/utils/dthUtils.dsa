@@ -292,6 +292,21 @@ function readPropsCSV(sFilename, frameDatas, iOffset) {
   return frameDatas;
 }
 
+function loadJson(sFilename) {
+
+  var oFile = new DzFile(sFilename);
+  if (oFile.open(DzFile.ReadOnly)) {
+    var oData = oFile.read();
+    oFile.close();
+    return JSON.parse(oData);
+  }
+  else {
+    print("Error opening '%1': %2".arg(sFilename).arg(oFile.errorString()));
+    return null;
+  }
+
+}
+
 /**
  * Prints frame data to CSV format
  * @param {Array} frameDatas - Array of frame data

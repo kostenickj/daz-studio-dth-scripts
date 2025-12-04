@@ -6,18 +6,47 @@ const morphsBaseDir = "E:\\DAZ\\DazContentLibrary\\data\\Daz 3D\\Genesis 9\\Base
 const morphsBaseDir2 = "E:\\DAZ\\CustomLibrary\\data\\DAZ 3D\\Genesis 9\\Base\\Morphs";
 
 // TODO, refine this there is a lot of shit you dont actually need here
+// ALSO, make sure u are getting the clone morphs for previous gens
 const ignoreMorphsPatterns = [
     // Add any morph names to ignore here
     'cbs',
     'clothbreasthelp',
+    'pants',
+    'straps',
+    'outfit',
+    'CTRLMD',
+    'Pupil',
+    'jcm',
+    'facs',
+    'LoadUVPrepPose',
+    'powerpose',
+    'Base Correctives',
+    'Base Pose',
+    'Utilities',
+    'dth',
+    'Size Finger',
+    'Size Toe',
+    'Side Outer',
+    'Side Inner',
+    'OOTG9Intimates',
+    'MCM_',
+    '_Cor',
+    'ToonShellOffset',
+    'FlexionAutoStrength',
+    'Iris',
+    'Piercing',
+    'TESTMORPH2',
+    'TBD_TEST',
+    'Fingers Distance',
+    'Toes Distance'
 ];
 
-interface MorphConfig  {
+interface MorphConfig {
     type: "morph" | "modifier" | "pose",
     name: string,
     value: number,
     reset?: number  // Optional reset value, defaults to 0 if not specified
-  }
+}
 
 const extract = async (filePath: string) => {
     return new Promise<string>((resolve, reject) => {
@@ -50,8 +79,15 @@ const extract = async (filePath: string) => {
 
     for (const file of filesList) {
 
-        if (ignoreMorphsPatterns.some(pattern => file.toLowerCase().includes(pattern.toLowerCase()))) {
-            console.log(`Skipping file: ${file}.`);
+        let shouldIgnore = false;
+        for (const pattern of ignoreMorphsPatterns) {
+            if (file.toLowerCase().includes(pattern.toLowerCase())) {
+                console.log(`Skipping file: ${file}. Matched ignore pattern: ${pattern}`);
+                shouldIgnore = true;
+                break;
+            }
+        }
+        if (shouldIgnore) {
             continue;
         }
 

@@ -1,7 +1,8 @@
 // Improved and Fixed MorphAnimationFrames.dsa
 // This file handles the creation of morph animation keyframes with improved organization
 // and robust error handling for different types of controls
-
+var dir_self = new DzDir(new DzFileInfo(getScriptFileName()).path());
+include(dir_self.filePath("dthUtils.dsa"));
 /**
  * Finds a control (morph, modifier, or pose) on a node by name
  * @param {DzNode} selectedNode - The node to search for controls
@@ -465,6 +466,9 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
       // First, gather all controls
       config.controls.forEach(function (control) {
+
+        // TODO, findControl is a massive bottleneck, optimize to build a static map of controls instead of literally searching every time
+        // the way it currently loops is absolutely bonkers for performance and any number of controls over like 10 will take forever
         var currentControl = findControl(
           selectedNode,
           control.name,
