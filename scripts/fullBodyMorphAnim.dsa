@@ -15,11 +15,14 @@ include(dir_self.filePath("utils/morphAnimationFrames.dsa"));
  * }
  */
 var morphConfigs = [
+  { type: "pose", name: "Masculine Jorg FULL", value: 1 },
+  { type: "morph", name: "00-brow-depth", value: 1 },
+  { type: "morph", name: "Masculine Jorg BODY", value: 1 },
   //[
-    // { type: "morph", name: "TBD", value: 1.0 },
-    // { type: "morph", name: "BaseFeminine_body_bs_Body", value: 1.0 },
-    // { type: "morph", name: "BaseFeminine_head_bs_Head", value: 1.0 },
-    // { type: "morph", name: "Fangs All Pointy A", value: 1.0 },
+  // { type: "morph", name: "TBD", value: 1.0 },
+  // { type: "morph", name: "BaseFeminine_body_bs_Body", value: 1.0 },
+  // { type: "morph", name: "BaseFeminine_head_bs_Head", value: 1.0 },
+  // { type: "morph", name: "Fangs All Pointy A", value: 1.0 },
   //   { type: "morph", name: "Glute Height Inner", value: 0.52 },
   //   { type: "morph", name: "Glute Width Upper", value: 0.87 },
   //   { type: "morph", name: "Glute Width Lower", value: 1 },
@@ -137,11 +140,14 @@ var morphConfigs = [
 ];
 
 morphConfigs = loadJson(dir_self.filePath("../morphConfigs.json"));
-morphConfigs = morphConfigs.slice(0, 5); // for testing, limit to first 100 entries
+// //morphConfigs = morphConfigs.slice(0, 5);
+// // get LAST 100 entries
+// morphConfigs = morphConfigs.slice(-100);
+
 
 var oNodeRoot = Scene.getPrimarySelection();
-  if (!oNodeRoot || !oNodeRoot.inherits("DzNode")) {
-    MessageBox.information(
+if (!oNodeRoot || !oNodeRoot.inherits("DzNode")) {
+  MessageBox.information(
     "Error: Node `Genesis 8/9` not found in scene",
     "",
     ""

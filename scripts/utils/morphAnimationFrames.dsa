@@ -3,6 +3,12 @@
 // and robust error handling for different types of controls
 var dir_self = new DzDir(new DzFileInfo(getScriptFileName()).path());
 include(dir_self.filePath("dthUtils.dsa"));
+
+// global control caches
+var poseControlCache = {};
+var morphControlCache = {};
+var modifierControlCache = {};
+
 /**
  * Finds a control (morph, modifier, or pose) on a node by name
  * @param {DzNode} selectedNode - The node to search for controls
@@ -13,41 +19,56 @@ include(dir_self.filePath("dthUtils.dsa"));
 function findControl(selectedNode, controlName, type) {
   var obj = selectedNode.getObject();
 
-  if (type === "pose") {
-    // Check node parameters for poses
+  var label = selectedNode.getLabel();
+
+
+  // check if the cache has been built for this node first
+  if (!poseControlCache[label]) {
+    poseControlCache[label] = {};
+    morphControlCache[label] = {};
+    modifierControlCache[label] = {};
+
+    // build caches
+
+    // poses
     var numParams = selectedNode.getNumProperties();
     for (var p = 0; p < numParams; p++) {
       var param = selectedNode.getProperty(p);
-      if (param.getName() === controlName || param.getLabel() === controlName) {
-        return param;
-      }
-    }
-  } else if (type === "morph") {
-    // Try using dthUtils function if available
-    if (typeof getMorphPropFromNode === "function") {
-      var prop = getMorphPropFromNode(selectedNode, controlName);
-      if (prop) return prop;
+      poseControlCache[label][param.getName()] = param;
+      poseControlCache[label][param.getLabel()] = param;
     }
 
-    // Fallback to manual search if not found or function not available
+    print("Built pose cache for node: " + label + " with " + Object.keys(poseControlCache[label]).length + " entries.");
+
+    // morphs and modifiers
     for (var m = 0; m < obj.getNumModifiers(); m++) {
       var mod = obj.getModifier(m);
-      if (mod.getLabel() === controlName) {
-        return mod;
+      if (mod.inherits("DzModifier")) {
+        modifierControlCache[label][mod.getName()] = mod;
+        modifierControlCache[label][mod.getLabel()] = mod;
+      } else {
+        morphControlCache[label][mod.getName()] = mod;
+        morphControlCache[label][mod.getLabel()] = mod;
       }
     }
-  } else if (type === "modifier") {
-    // Check modifiers specifically for Modifier/Shape types
-    for (var m = 0; m < obj.getNumModifiers(); m++) {
-      var mod = obj.getModifier(m);
-      if (
-        (mod.getLabel() === controlName || mod.getName() === controlName) &&
-        mod.inherits("DzModifier")
-      ) {
-        return mod;
-      }
-    }
+
+    print("Built morph/modifier cache for node: " + label + " with " + Object.keys(morphControlCache[label]).length + " morphs and " + Object.keys(modifierControlCache[label]).length + " modifiers.");
   }
+
+  // we have caches, try to get from cache, ignoring type, just check in order
+  if (poseControlCache[label][controlName]) {
+    //print("Found pose control in cache: " + controlName + ' for node: ' + label);
+    return poseControlCache[label][controlName];
+  }
+  if (morphControlCache[label][controlName]) {
+    //print("Found morph control in cache: " + controlName + ' for node: ' + label);
+    return morphControlCache[label][controlName];
+  }
+  if (modifierControlCache[label][controlName]) {
+    //print("Found modifier control in cache: " + controlName + ' for node: ' + label);
+    return modifierControlCache[label][controlName];
+  }
+
   return null;
 }
 
@@ -217,17 +238,7 @@ function resetAllControlsAtFrame(
     return;
   }
 
-  var processedControls = {}; // Track which controls we've already processed
-  var controlMap = buildControlMap(selectedNode);
-  var childControlMaps = {};
-
-  // Build control maps for possible child nodes
-  possibleChildNodes.forEach(function (childNode) {
-    if ( !childNode ) {
-      return;
-    }
-    childControlMaps[childNode.getLabel()] = buildControlMap(childNode);
-  });
+  var processedControls = {}; // Track which controls we've already processed;
 
   for (var i = 0; i < controlConfigs.length; i++) {
     var config = parseControlConfig(controlConfigs[i]);
@@ -243,16 +254,13 @@ function resetAllControlsAtFrame(
         return;
       }
 
-      var controlMod = controlMap[control.name];// || findControl(selectedNode, control.name, control.type);
+      var controlMod = findControl(selectedNode, control.name, control.type);
       // If not found on main node, check child nodes
       if (!controlMod) {
-
-        var childControlNames = Object.keys(childControlMaps);
-        for (var c = 0; c < childControlNames.length; c++) {
-          var childName = childControlNames[c];
-          var childMap = childControlMaps[childName];
-          if (childMap && childMap[control.name]) {
-            controlMod = childMap[control.name];
+        for (var c = 0; c < possibleChildNodes.length; c++) {
+          var childNode = possibleChildNodes[c];
+          controlMod = findControl(childNode, control.name, control.type);
+          if (controlMod) {
             break;
           }
         }
@@ -271,7 +279,7 @@ function resetAllControlsAtFrame(
           processedControls[control.name] = true;
         }
       }
-      else{
+      else {
         print("WARNING: Cannot find control to reset: " + control.name);
       }
     });
@@ -416,24 +424,6 @@ function extendTimelineIfNeeded(currentFrame, framesNeeded) {
   return currentFrame;
 }
 
-function buildControlMap(selectedNode) {
-  var obj = selectedNode.getObject();
-
-  controlMap = {};
-  for (var m = 0; m < obj.getNumModifiers(); m++) {
-
-    var mod = obj.getModifier(m);
-    if (controlMap[mod.getLabel()]) {
-      messageBox.warning("Warning", "Duplicate control name found: " + mod.getLabel() + ". This may cause issues when setting values.", "");
-    }
-
-    controlMap[mod.getLabel()] = mod;
-
-
-  }
-  return controlMap;
-}
-
 /**
  * Adds morph animation frames to a node based on control configurations
  * @param {DzNode} oNodeRoot - Node to add morphs to
@@ -468,13 +458,6 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
     var oNodeMouth = oNodeRoot.findNodeChildByLabel("Genesis 9 Mouth");
     var oNodeLashes = oNodeRoot.findNodeChildByLabel("Genesis 9 Eyelashes");
-
-    mainControlMap = buildControlMap(selectedNode);
-    print("Main control map built with " + Object.keys(mainControlMap).length + " controls.");
-    mouthControlMap = buildControlMap(oNodeMouth);
-    print("Mouth control map built with " + Object.keys(mouthControlMap).length + " controls.");
-    lashesControlMap = buildControlMap(oNodeLashes);
-    print("Lashes control map built with " + Object.keys(lashesControlMap).length + " controls.");
 
     // Extend timeline if needed
     var currentFrame = Scene.getFrame();
@@ -522,18 +505,18 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
       // First, gather all controls
       config.controls.forEach(function (control) {
 
-        var currentControl = mainControlMap[control.name];
+        var currentControl = findControl(selectedNode, control.name, control.type);
 
         // if we cant find the control, try finding it on the mouth, or lashes, will eventually needs to add genitalia node too (TODO)
         if (!currentControl) {
           print("Control not found on main node, trying mouth:", control.name);
-          var mouthControl = mouthControlMap[control.name];
+          var mouthControl = findControl(oNodeMouth, control.name, control.type);
 
           print("found on mouth?", !!mouthControl);
           if (mouthControl) {
             currentControl = mouthControl;
           } else {
-            var lashesControl = lashesControlMap[control.name];
+            var lashesControl = findControl(oNodeLashes, control.name, control.type);
             print("found on lashes?", !!lashesControl);
             if (lashesControl) {
               currentControl = lashesControl;
