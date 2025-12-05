@@ -216,6 +216,7 @@ function resetAllControlsAtFrame(
   }
 
   var processedControls = {}; // Track which controls we've already processed
+  var controlMap = buildControlMap(selectedNode);
 
   for (var i = 0; i < controlConfigs.length; i++) {
     var config = parseControlConfig(controlConfigs[i]);
@@ -231,7 +232,7 @@ function resetAllControlsAtFrame(
         return;
       }
 
-      var controlMod = findControl(selectedNode, control.name, control.type);
+      var controlMod = controlMap[control.name];// || findControl(selectedNode, control.name, control.type);
 
       if (controlMod) {
         if (
@@ -245,6 +246,9 @@ function resetAllControlsAtFrame(
         ) {
           processedControls[control.name] = true;
         }
+      }
+      else{
+        print("WARNING: Cannot find control to reset: " + control.name);
       }
     });
   }
@@ -389,17 +393,19 @@ function extendTimelineIfNeeded(currentFrame, framesNeeded) {
 }
 
 function buildControlMap(selectedNode) {
-  allFoundControls = collectAvailableControls(selectedNode);
+  var obj = selectedNode.getObject();
 
   controlMap = {};
-  for (var i = 0; i < allFoundControls.length; i++) {
-    var ctrl = allFoundControls[i];
-    if (controlMap[ctrl.label]) {
-      messageBox.warning("Warning", "Duplicate control name found: " + ctrl.name + ". This may cause issues when setting values.", "");
+  for (var m = 0; m < obj.getNumModifiers(); m++) {
+
+    var mod = obj.getModifier(m);
+    if (controlMap[mod.getLabel()]) {
+      messageBox.warning("Warning", "Duplicate control name found: " + mod.getLabel() + ". This may cause issues when setting values.", "");
     }
-    if (ctrl.type === "modifier" || ctrl.type === "morph") {
-      controlMap[ctrl.label] = ctrl;
-    }
+
+    controlMap[mod.getLabel()] = mod;
+
+
   }
   return controlMap;
 }
@@ -470,8 +476,6 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
     for (var frame = startFrame; frame < endFrame; frame++) {
       Scene.setFrame(frame);
-      // TODO, the main bottleneck is fixed by using the control maps, now this fuction also needs to be optimized
-      // its ungodly slow
       resetAllControlsAtFrame(controlConfigs, selectedNode, frame, startFrame);
     }
 

@@ -137,7 +137,7 @@ var morphConfigs = [
 ];
 
 morphConfigs = loadJson(dir_self.filePath("../morphConfigs.json"));
-morphConfigs = morphConfigs.slice(0, 500); // for testing, limit to first 100 entries
+morphConfigs = morphConfigs.slice(0, 5); // for testing, limit to first 100 entries
 
 var oNodeRoot = Scene.getPrimarySelection();
   if (!oNodeRoot || !oNodeRoot.inherits("DzNode")) {
