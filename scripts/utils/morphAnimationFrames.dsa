@@ -187,12 +187,14 @@ function isFenceFrame(controlConfigs, frame) {
  * Sets all controls to their reset values at a specific frame
  * @param {Array} controlConfigs - Array of control configurations
  * @param {DzNode} selectedNode - Node containing the controls
+ * @param {Array<DzNode>} possibleChildNodes - Possible child nodes to search for controls
  * @param {number} frame - Frame to reset controls at
  * @param {number} startFrame - The frame where we started
  */
 function resetAllControlsAtFrame(
   controlConfigs,
   selectedNode,
+  possibleChildNodes,
   frame,
   startFrame
 ) {
@@ -217,6 +219,15 @@ function resetAllControlsAtFrame(
 
   var processedControls = {}; // Track which controls we've already processed
   var controlMap = buildControlMap(selectedNode);
+  var childControlMaps = {};
+
+  // Build control maps for possible child nodes
+  possibleChildNodes.forEach(function (childNode) {
+    if ( !childNode ) {
+      return;
+    }
+    childControlMaps[childNode.getLabel()] = buildControlMap(childNode);
+  });
 
   for (var i = 0; i < controlConfigs.length; i++) {
     var config = parseControlConfig(controlConfigs[i]);
@@ -233,6 +244,19 @@ function resetAllControlsAtFrame(
       }
 
       var controlMod = controlMap[control.name];// || findControl(selectedNode, control.name, control.type);
+      // If not found on main node, check child nodes
+      if (!controlMod) {
+
+        var childControlNames = Object.keys(childControlMaps);
+        for (var c = 0; c < childControlNames.length; c++) {
+          var childName = childControlNames[c];
+          var childMap = childControlMaps[childName];
+          if (childMap && childMap[control.name]) {
+            controlMod = childMap[control.name];
+            break;
+          }
+        }
+      }
 
       if (controlMod) {
         if (
@@ -469,6 +493,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
       resetAllControlsAtFrame(
         controlConfigs,
         selectedNode,
+        [oNodeMouth, oNodeLashes],
         startFrame - 1,
         startFrame
       );
@@ -476,7 +501,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
     for (var frame = startFrame; frame < endFrame; frame++) {
       Scene.setFrame(frame);
-      resetAllControlsAtFrame(controlConfigs, selectedNode, frame, startFrame);
+      resetAllControlsAtFrame(controlConfigs, selectedNode, [oNodeMouth, oNodeLashes], frame, startFrame);
     }
 
     // Then set each control or control group to its target value at its specific frame
