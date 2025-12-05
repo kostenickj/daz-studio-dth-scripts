@@ -38,7 +38,8 @@ const ignoreMorphsPatterns = [
     'TESTMORPH2',
     'TBD_TEST',
     'Fingers Distance',
-    'Toes Distance'
+    'Toes Distance',
+    'TM Philtrum Depth'
 ];
 
 interface MorphConfig {

@@ -484,6 +484,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
 
     for (var frame = startFrame; frame < endFrame; frame++) {
       Scene.setFrame(frame);
+      print("Resetting controls at frame: " + frame);
       resetAllControlsAtFrame(controlConfigs, selectedNode, [oNodeMouth, oNodeLashes], frame, startFrame);
     }
 
@@ -524,7 +525,7 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
           }
 
           if (!currentControl) {
-            MessageBox.critical("Error", "Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING", "");
+            print("Error: Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING");
             return;
           }
 

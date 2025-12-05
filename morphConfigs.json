@@ -5871,11 +5871,6 @@
   },
   {
     "type": "morph",
-    "name": "TM Philtrum Depth",
-    "value": 1
-  },
-  {
-    "type": "morph",
     "name": "ANBigLipsG9V101",
     "value": 1
   },
