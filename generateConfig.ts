@@ -133,4 +133,44 @@ const extract = async (filePath: string) => {
     fs.writeFileSync('./morphConfigs.json', JSON.stringify(morphConfigs, null, 2), 'utf-8');
     console.log("Config generation complete. Output written to morphConfigs.json. Total morphs:", morphConfigs.length);
 
+    console.log("Generating DUF animation file...");
+
+    const timePerFrame = 1/30;
+
+    const animations = morphConfigs.map((morph, frameIndex) => {
+        const startTime = (frameIndex + 1) * timePerFrame;
+        const prevTime = frameIndex * timePerFrame;
+        const nextTime = (frameIndex + 2) * timePerFrame;
+
+        return {
+            url: `name://@selection#${morph.name}:?value/value`,
+            keys: [
+                [prevTime, 0, [ "LINEAR" ]],
+                [startTime, 1, [ "LINEAR" ]],
+                [nextTime, 0, [ "LINEAR" ]]
+            ]
+        };
+    });
+
+    const dufContent = {
+        file_version: "1.6.0.0",
+        asset_info: {
+            id: "/Animations/Generated/AllMorphsAnimation.duf",
+            type: "preset_pose",
+            contributor: {
+                author: "generateConfig.ts",
+                email: "",
+                website: ""
+            },
+            revision: "1.0",
+            modified: new Date().toISOString()
+        },
+        scene: {
+            animations: animations
+        }
+    };
+
+    fs.writeFileSync('./allMorphsAnimation.duf', JSON.stringify(dufContent, null, 2), 'utf-8');
+    console.log(`DUF animation file generated at allMorphsAnimation.duf with ${morphConfigs.length} morphs.`);
+
 })();
