@@ -156,7 +156,7 @@ const extract = async (filePath: string) => {
     const dufContent = {
         file_version: "1.6.0.0",
         asset_info: {
-            id: "/Animations/Generated/AllMorphsAnimation.duf",
+            id: "/Animations/Generated/AllMorphsROM.duf",
             type: "preset_pose",
             contributor: {
                 author: "generateConfig.ts",
@@ -171,7 +171,7 @@ const extract = async (filePath: string) => {
         }
     };
 
-    fs.writeFileSync('./allMorphsAnimation.duf', JSON.stringify(dufContent, null, 2), 'utf-8');
-    console.log(`DUF animation file generated at allMorphsAnimation.duf with ${morphConfigs.length} morphs.`);
+    fs.writeFileSync('./AllMorphsROM.duf', JSON.stringify(dufContent, null, 2), 'utf-8');
+    console.log(`DUF animation file generated at AllMorphsROM.duf with ${morphConfigs.length} morphs.`);
 
 })();
