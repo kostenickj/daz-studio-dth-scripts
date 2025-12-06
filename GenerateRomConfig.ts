@@ -4,6 +4,7 @@ import sevenBin from '7zip-bin'
 
 const morphsBaseDir = "E:\\DAZ\\DazContentLibrary\\data\\Daz 3D\\Genesis 9\\Base\\Morphs";
 const morphsBaseDir2 = "E:\\DAZ\\CustomLibrary\\data\\DAZ 3D\\Genesis 9\\Base\\Morphs";
+import Decimal from 'decimal.js';
 
 // TODO, refine this there is a lot of shit you dont actually need here
 // ALSO, make sure u are getting the clone morphs for previous gens
@@ -136,23 +137,30 @@ const extract = async (filePath: string) => {
     console.log("Generating DUF animation file...");
 
     const timePerFrame = 1/30;
+    const one = new Decimal(1);
+    const thirty = new Decimal(30);
+    const timePerFrameDecimal = one.dividedBy(thirty);
 
     const animations = morphConfigs.map((morph, frameIndex) => {
         // round to max 8 decimal places to avoid floating point precision issues
-        const startTime = Number(((frameIndex + 1) * timePerFrame).toFixed(8));
-        const prevTime = Number((frameIndex * timePerFrame).toFixed(8));
-        const nextTime = Number(((frameIndex + 2) * timePerFrame).toFixed(8));
+        const decimalStartTime = (frameIndex+1)/30/// timePerFrameDecimal.mul(new Decimal(frameIndex + 1));
+        const decimalPrevTime =  frameIndex/30//timePerFrameDecimal.mul(new Decimal(frameIndex));
+        const decimalNextTime =  (frameIndex+2)/30;//timePerFrameDecimal.mul(new Decimal(frameIndex + 2));
+        // const startTime = Number(((frameIndex + 1) * timePerFrame).toFixed(8));
+        // const prevTime = Number((frameIndex * timePerFrame).toFixed(8));
+        // const nextTime = Number(((frameIndex + 2) * timePerFrame).toFixed(8));
 
         return {
             url: `name://@selection#${morph.name}:?value/value`,
             keys: [
-                [prevTime, 0, [ "LINEAR" ]],
-                [startTime, 1, [ "LINEAR" ]],
-                [nextTime, 0, [ "LINEAR" ]]
+                [Number(decimalPrevTime.toFixed(6)), 0, [ "LINEAR" ]],
+                [Number(decimalStartTime.toFixed(6)), 1, [ "LINEAR" ]],
+                [Number(decimalNextTime.toFixed(6)), 0, [ "LINEAR" ]]
             ]
         };
     });
 
+    // unfortunately this doesnt work due to some floating point bullshit that i cant seem to figure out
     const dufContent = {
         file_version: "1.6.0.0",
         asset_info: {

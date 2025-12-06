@@ -4,12 +4,30 @@
             {
                 "type": "node",
                 "request": "launch",
-                "name": "Generate Config",
+                "name": "Generate Morphs Config",
                 "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/ts-node",
                 "runtimeArgs": [
                     "--transpile-only",
                 ],
-                "program": "${workspaceFolder}/generateConfig.ts",
+                "program": "${workspaceFolder}/GenerateRomConfig.ts",
+                "console": "integratedTerminal",
+                "sourceMaps": true,
+                "cwd": "${workspaceFolder}",
+                "internalConsoleOptions": "openOnSessionStart",
+                "skipFiles": [
+                    "<node_internals>/**",
+                    "node_modules/**"
+                ]
+            },
+             {
+                "type": "node",
+                "request": "launch",
+                "name": "Generate Morphs ROM Csv",
+                "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/ts-node",
+                "runtimeArgs": [
+                    "--transpile-only",
+                ],
+                "program": "${workspaceFolder}/GenerateMorphCsv.ts",
                 "console": "integratedTerminal",
                 "sourceMaps": true,
                 "cwd": "${workspaceFolder}",
