@@ -138,9 +138,10 @@ const extract = async (filePath: string) => {
     const timePerFrame = 1/30;
 
     const animations = morphConfigs.map((morph, frameIndex) => {
-        const startTime = (frameIndex + 1) * timePerFrame;
-        const prevTime = frameIndex * timePerFrame;
-        const nextTime = (frameIndex + 2) * timePerFrame;
+        // round to max 8 decimal places to avoid floating point precision issues
+        const startTime = Number(((frameIndex + 1) * timePerFrame).toFixed(8));
+        const prevTime = Number((frameIndex * timePerFrame).toFixed(8));
+        const nextTime = Number(((frameIndex + 2) * timePerFrame).toFixed(8));
 
         return {
             url: `name://@selection#${morph.name}:?value/value`,
