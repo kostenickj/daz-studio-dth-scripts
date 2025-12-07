@@ -34,8 +34,21 @@ const exampleCsvLocation = `G:\\UE_Projects\\VGame\\Daz\\Staging\\G9_F\\Roms.csv
         currentFrame++;
     }
 
+    // now de-duplicate the rows by cleaned name, keeping the original currentFrame
+    const uniqueRowsMap: { [key: string]: string } = {};
+    for (const row of rows) {
+        const parts = row.split(',');
+        const name = parts[2];
+        if (!uniqueRowsMap[name]) {
+            uniqueRowsMap[name] = row;
+        }
+        else{
+            console.log(`Duplicate morph name found: ${name}. Skipping duplicate.`);
+        }
+    }
+
     // write out the csv, no headers
-    const csvContent = rows.join('\n');
+    const csvContent = Object.values(uniqueRowsMap).join('\n');
     fs.writeFileSync('./GeneratedMorphs.csv', csvContent, 'utf-8');
     console.log(`Wrote ${morphConfigs.length} morph configs to GeneratedMorphs.csv`);
 
