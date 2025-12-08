@@ -761,11 +761,6 @@
   },
   {
     "type": "morph",
-    "name": "body_bs_Navel_HD3",
-    "value": 1
-  },
-  {
-    "type": "morph",
     "name": "body_bs_NipplesFeminine_HD3",
     "value": 1
   },
@@ -922,11 +917,6 @@
   {
     "type": "morph",
     "name": "head_bs_MouthCavityFitFront",
-    "value": 1
-  },
-  {
-    "type": "morph",
-    "name": "head_bs_MouthRealism_HD3",
     "value": 1
   },
   {
@@ -6097,11 +6087,6 @@
   {
     "type": "morph",
     "name": "Wagner9_body_bs_Body_HD4",
-    "value": 1
-  },
-  {
-    "type": "morph",
-    "name": "Wagner9_body_bs_Navel_HD4",
     "value": 1
   },
   {

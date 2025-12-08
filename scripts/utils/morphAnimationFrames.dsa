@@ -424,6 +424,24 @@ function extendTimelineIfNeeded(currentFrame, framesNeeded) {
   return currentFrame;
 }
 
+
+function getControlForConfig(selectedNode, controlConfig, possibleChildNodes) {
+  var controlMod = findControl(selectedNode, controlConfig.name, controlConfig.type);
+  // If not found on main node, check child nodes
+  if (!controlMod) {
+    print("Control not found on main node, trying child nodes:", controlConfig.name);
+    for (var c = 0; c < possibleChildNodes.length; c++) {
+      var childNode = possibleChildNodes[c];
+      controlMod = findControl(childNode, controlConfig.name, controlConfig.type);
+      if (controlMod) {
+        print("Control found on child node:", controlConfig.name);
+        break;
+      }
+    }
+  }
+  return controlMod;
+}
+
 /**
  * Adds morph animation frames to a node based on control configurations
  * @param {DzNode} oNodeRoot - Node to add morphs to
@@ -503,32 +521,17 @@ function addMorphAnimationFrames(oNodeRoot, controlConfigs) {
       // Ensure we set all controls at exactly the same frame
       var controlsToSet = [];
 
+      //var persistentControlConfigs = [{ type: "morph", name: "PBMBodySize", value: 1 }];
+
       // First, gather all controls
       config.controls.forEach(function (control) {
 
-        var currentControl = findControl(selectedNode, control.name, control.type);
+        var currentControl = getControlForConfig(selectedNode, control, [oNodeMouth, oNodeLashes]);
 
         // if we cant find the control, try finding it on the mouth, or lashes, will eventually needs to add genitalia node too (TODO)
         if (!currentControl) {
-          print("Control not found on main node, trying mouth:", control.name);
-          var mouthControl = findControl(oNodeMouth, control.name, control.type);
-
-          print("found on mouth?", !!mouthControl);
-          if (mouthControl) {
-            currentControl = mouthControl;
-          } else {
-            var lashesControl = findControl(oNodeLashes, control.name, control.type);
-            print("found on lashes?", !!lashesControl);
-            if (lashesControl) {
-              currentControl = lashesControl;
-            }
-          }
-
-          if (!currentControl) {
-            print("Error: Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING");
-            return;
-          }
-
+          print("Error: Control '" + control.name + "' not found on main node, mouth, or lashes. ABORTING");
+          return;         
         }
 
         if (currentControl) {
