@@ -40,7 +40,9 @@ const ignoreMorphsPatterns = [
     'TBD_TEST',
     'Fingers Distance',
     'Toes Distance',
-    'TM Philtrum Depth'
+    'TM Philtrum Depth',
+    'body_bs_Navel_HD',
+    'head_bs_MouthRealism_HD'
 ];
 
 interface MorphConfig {
@@ -134,52 +136,52 @@ const extract = async (filePath: string) => {
     fs.writeFileSync('./morphConfigs.json', JSON.stringify(morphConfigs, null, 2), 'utf-8');
     console.log("Config generation complete. Output written to morphConfigs.json. Total morphs:", morphConfigs.length);
 
-    console.log("Generating DUF animation file...");
+ //   console.log("Generating DUF animation file...");
 
-    const timePerFrame = 1/30;
-    const one = new Decimal(1);
-    const thirty = new Decimal(30);
-    const timePerFrameDecimal = one.dividedBy(thirty);
+    // const timePerFrame = 1/30;
+    // const one = new Decimal(1);
+    // const thirty = new Decimal(30);
+    // const timePerFrameDecimal = one.dividedBy(thirty);
 
-    const animations = morphConfigs.map((morph, frameIndex) => {
-        // round to max 8 decimal places to avoid floating point precision issues
-        const decimalStartTime = (frameIndex+1)/30/// timePerFrameDecimal.mul(new Decimal(frameIndex + 1));
-        const decimalPrevTime =  frameIndex/30//timePerFrameDecimal.mul(new Decimal(frameIndex));
-        const decimalNextTime =  (frameIndex+2)/30;//timePerFrameDecimal.mul(new Decimal(frameIndex + 2));
-        // const startTime = Number(((frameIndex + 1) * timePerFrame).toFixed(8));
-        // const prevTime = Number((frameIndex * timePerFrame).toFixed(8));
-        // const nextTime = Number(((frameIndex + 2) * timePerFrame).toFixed(8));
+    // const animations = morphConfigs.map((morph, frameIndex) => {
+    //     // round to max 8 decimal places to avoid floating point precision issues
+    //     const decimalStartTime = (frameIndex+1)/30/// timePerFrameDecimal.mul(new Decimal(frameIndex + 1));
+    //     const decimalPrevTime =  frameIndex/30//timePerFrameDecimal.mul(new Decimal(frameIndex));
+    //     const decimalNextTime =  (frameIndex+2)/30;//timePerFrameDecimal.mul(new Decimal(frameIndex + 2));
+    //     // const startTime = Number(((frameIndex + 1) * timePerFrame).toFixed(8));
+    //     // const prevTime = Number((frameIndex * timePerFrame).toFixed(8));
+    //     // const nextTime = Number(((frameIndex + 2) * timePerFrame).toFixed(8));
 
-        return {
-            url: `name://@selection#${morph.name}:?value/value`,
-            keys: [
-                [Number(decimalPrevTime.toFixed(6)), 0, [ "LINEAR" ]],
-                [Number(decimalStartTime.toFixed(6)), 1, [ "LINEAR" ]],
-                [Number(decimalNextTime.toFixed(6)), 0, [ "LINEAR" ]]
-            ]
-        };
-    });
+    //     return {
+    //         url: `name://@selection#${morph.name}:?value/value`,
+    //         keys: [
+    //             [Number(decimalPrevTime.toFixed(6)), 0, [ "LINEAR" ]],
+    //             [Number(decimalStartTime.toFixed(6)), 1, [ "LINEAR" ]],
+    //             [Number(decimalNextTime.toFixed(6)), 0, [ "LINEAR" ]]
+    //         ]
+    //     };
+    // });
 
-    // unfortunately this doesnt work due to some floating point bullshit that i cant seem to figure out
-    const dufContent = {
-        file_version: "1.6.0.0",
-        asset_info: {
-            id: "/Animations/Generated/AllMorphsROM.duf",
-            type: "preset_pose",
-            contributor: {
-                author: "generateConfig.ts",
-                email: "",
-                website: ""
-            },
-            revision: "1.0",
-            modified: new Date().toISOString()
-        },
-        scene: {
-            animations: animations
-        }
-    };
+    // // unfortunately this doesnt work due to some floating point bullshit that i cant seem to figure out
+    // const dufContent = {
+    //     file_version: "1.6.0.0",
+    //     asset_info: {
+    //         id: "/Animations/Generated/AllMorphsROM.duf",
+    //         type: "preset_pose",
+    //         contributor: {
+    //             author: "generateConfig.ts",
+    //             email: "",
+    //             website: ""
+    //         },
+    //         revision: "1.0",
+    //         modified: new Date().toISOString()
+    //     },
+    //     scene: {
+    //         animations: animations
+    //     }
+    // };
 
-    fs.writeFileSync('./AllMorphsROM.duf', JSON.stringify(dufContent, null, 2), 'utf-8');
-    console.log(`DUF animation file generated at AllMorphsROM.duf with ${morphConfigs.length} morphs.`);
+    // fs.writeFileSync('./AllMorphsROM.duf', JSON.stringify(dufContent, null, 2), 'utf-8');
+    // console.log(`DUF animation file generated at AllMorphsROM.duf with ${morphConfigs.length} morphs.`);
 
 })();
