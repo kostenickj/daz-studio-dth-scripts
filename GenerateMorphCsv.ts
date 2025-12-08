@@ -23,15 +23,15 @@ const exampleCsvLocation = `G:\\UE_Projects\\VGame\\Daz\\Staging\\G9_F\\Roms.csv
 
     const rows: string[] = [];
 
-    // start at 1 since 0 is rest pose
-    let currentFrame = 1;
+    // start at frame 4 since first 3 are retarget poses and the rest pose, frame 3 is fence
+    let startFrame = 4;
     for (const morphConfig of morphConfigs) {
         // can contain only letters, numbers, underscores. No spaces or special characters
         let cleanedName = morphConfig.name.replace(/[^a-zA-Z0-9_]/g, '_');
         cleanedName = cleanedName.replace(/_+/g, '_'); // replace multiple underscores with single underscore
-        console.log(`Processing morph: ${morphConfig.name} as ${cleanedName} at frame ${currentFrame}`);
-        rows.push(`MIS,${currentFrame},${cleanedName}`);
-        currentFrame++;
+        console.log(`Processing morph: ${morphConfig.name} as ${cleanedName} at frame ${startFrame}`);
+        rows.push(`MIS,${startFrame},${cleanedName}`);
+        startFrame++;
     }
 
     // now de-duplicate the rows by cleaned name, keeping the original currentFrame
